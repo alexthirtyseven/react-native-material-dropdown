@@ -19,6 +19,8 @@ Material dropdown with consistent behaviour on iOS and Android
 
 ![example][example-url]
 
+This project was not maintained, so I seek to maintain myself. Credit still goes to original owner.
+
 ## Features
 
 * Easy to use
